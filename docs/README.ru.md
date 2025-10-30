@@ -3,9 +3,7 @@
 [English](../README.md) | [简体中文](./README.zh-cn.md) | [繁體中文](./README.zh-hant.md) | [日本語](./README.ja.md) | [Español](./README.es.md) | [Français](./README.fr.md) | [Русский](./README.ru.md) | [Deutsch](./README.de.md)
 
 GPT-Telegram-Bot — это мощный Telegram-бот, интегрирующий различные модели ИИ, обеспечивающий интеллектуальные беседы, генерацию и анализ изображений.
-
-[![Развернуть с Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsnakeying%2FGPT-Telegram-Bot)
-
+[![Развернуть с Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/OrganizationOrganizationOrganization/GPT-Telegram-Bot)
 ## Основные функции 🌟
 
 1. **Поддержка нескольких моделей** 🎭: Любая модель, совместимая с API OpenAI, Google Gemini, Anthropic Claude, Groq и Azure OpenAI
@@ -179,14 +177,14 @@ GPT-Telegram-Bot/
 О кнопке "Развернуть с Vercel":
 Эта кнопка предоставляет функцию развертывания в один клик на Vercel, что очень удобно. Однако, обратите внимание:
 
-1. Ссылка в кнопке указывает на оригинальный репозиторий (https://github.com/snakeying/GPT-Telegram-Bot).
+1. Ссылка в кнопке указывает на оригинальный репозиторий (https://github.com/OrganizationOrganizationOrganization/GPT-Telegram-Bot).
 2. Если вы сделали форк этого проекта и хотите развернуть свою собственную версию, вам нужно обновить эту ссылку кнопки в README.
-3. Метод обновления: Замените `snakeying/GPT-Telegram-Bot` в ссылке на ваше имя пользователя GitHub и название репозитория.
+3. Метод обновления: Замените `OrganizationOrganizationOrganization` в ссылке на ваше имя пользователя GitHub и название репозитория.
 
 Например, если ваше имя пользователя GitHub "vashimya", вы должны изменить ссылку кнопки на:
 
 ```markdown
-[![Развернуть с Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvashimya%2FGPT-Telegram-Bot)
+[![Развернуть с Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=[![Развернуть с Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/OrganizationOrganizationOrganization/GPT-Telegram-Bot))
 ```
 
 Это обеспечит, что кнопка "Развернуть с Vercel" будет развертывать вашу форкнутую версию, а не оригинальный репозиторий.
